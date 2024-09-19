@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import { CiHeart } from "react-icons/ci";
 import { SlHandbag } from "react-icons/sl";
 import { CiBellOn } from "react-icons/ci";
-import Sidebar from './Sidebar';
+
 const Navbar = () => {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const toggleSidebar = () => {

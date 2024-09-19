@@ -12,7 +12,6 @@ import { CiPlay1 } from "react-icons/ci";
 import { FaRegFolder } from "react-icons/fa6";
 import { FiClipboard } from "react-icons/fi";
 import { CiMobile1 } from "react-icons/ci";
-import { MdOutlineFindInPage } from "react-icons/md";
 import { FaStar } from "react-icons/fa";
 import { BsFillPeopleFill } from "react-icons/bs";
 import { MdVerified } from "react-icons/md";
